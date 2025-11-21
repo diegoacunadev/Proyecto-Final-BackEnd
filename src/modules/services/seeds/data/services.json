@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Corte de cabello",
+    "description": "Corte profesional para hombres y mujeres.",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdjSaBG-dHYBuAAQvO-GTVPJOVdTSF01u_lmFpAzGZPZUbkYz38K65qavdNsQ0p4DF6_Q&usqp=CAU"
+    ],
+    "price": 25,
+    "duration": 30
+  },
+  {
+    "name": "Manicura",
+    "description": "Servicio completo de manicura y esmaltado.",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrjSaBG-dHYBuAAQvO-GTVPJOVdTSF01u_lmFpAzGZPZUbkYz38K65qavdNsQ0p4DF6_Q&usqp=CAU"
+    ],
+    "price": 20,
+    "duration": 45
+  },
+  {
+    "name": "Limpieza facial",
+    "description": "Limpieza profunda de rostro con productos naturales.",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnjSaBG-dHYBuAAQvO-GTVPJOVdTSF01u_lmFpAzGZPZUbkYz38K65qavdNsQ0p4DF6_Q&usqp=CAU"
+    ],
+    "price": 35,
+    "duration": 60
+  },
+  {
+    "name": "Masaje relajante",
+    "description": "Masaje corporal completo para aliviar el estrés y mejorar la circulación.",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmjSaBG-dHYBuAAQvO-GTVPJOVdTSF01u_lmFpAzGZPZUbkYz38K65qavdNsQ0p4DF6_Q&usqp=CAU"
+    ],
+    "price": 40,
+    "duration": 50
+  },
+  {
+    "name": "Depilación corporal",
+    "description": "Depilación con cera para piernas, brazos y zona íntima.",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcPkjSaBG-dHYBuAAQvO-GTVPJOVdTSF01u_lmFpAzGZPZUbkYz38K65qavdNsQ0p4DF6_Q&usqp=CAU"
+    ],
+    "price": 30,
+    "duration": 40
+  },
+  {
+    "name": "Pedicura",
+    "description": "Cuidado y esmaltado profesional de pies.",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcOjSaBG-dHYBuAAQvO-GTVPJOVdTSF01u_lmFpAzGZPZUbkYz38K65qavdNsQ0p4DF6_Q&usqp=CAU"
+    ],
+    "price": 22,
+    "duration": 35
+  },
+  {
+    "name": "Coloración de cabello",
+    "description": "Tintura, mechas y coloración personalizada.",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcNjSaBG-dHYBuAAQvO-GTVPJOVdTSF01u_lmFpAzGZPZUbkYz38K65qavdNsQ0p4DF6_Q&usqp=CAU"
+    ],
+    "price": 55,
+    "duration": 90
+  },
+  {
+    "name": "Peinado de eventos",
+    "description": "Peinados profesionales para fiestas, bodas y eventos.",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcMjSaBG-dHYBuAAQvO-GTVPJOVdTSF01u_lmFpAzGZPZUbkYz38K65qavdNsQ0p4DF6_Q&usqp=CAU"
+    ],
+    "price": 28,
+    "duration": 40
+  },
+  {
+    "name": "Tratamiento capilar",
+    "description": "Tratamiento nutritivo y regenerador para el cabello.",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcLjSaBG-dHYBuAAQvO-GTVPJOVdTSF01u_lmFpAzGZPZUbkYz38K65qavdNsQ0p4DF6_Q&usqp=CAU"
+    ],
+    "price": 45,
+    "duration": 60
+  },
+  {
+    "name": "Maquillaje profesional",
+    "description": "Maquillaje profesional para eventos y sesiones fotográficas.",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcKjSaBG-dHYBuAAQvO-GTVPJOVdTSF01u_lmFpAzGZPZUbkYz38K65qavdNsQ0p4DF6_Q&usqp=CAU"
+    ],
+    "price": 38,
+    "duration": 50
+  }
+]

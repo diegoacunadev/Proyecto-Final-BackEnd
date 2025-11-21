@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>¡Bienvenido a ServiYApp!</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Arial, sans-serif;
+      background-color: #f5f7fb;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    .container {
+      max-width: 480px;
+      margin: 40px auto;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+      padding: 30px;
+    }
+    h2 {
+      color: #007bff;
+      text-align: center;
+    }
+    p {
+      font-size: 15px;
+      line-height: 1.6;
+    }
+    .btn {
+      display: block;
+      background-color: #007bff;
+      color: white;
+      text-align: center;
+      padding: 12px;
+      margin-top: 25px;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .footer {
+      text-align: center;
+      font-size: 12px;
+      color: #777;
+      margin-top: 25px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>¡Bienvenido a ServiYApp! 🎉</h2>
+    <p>Hola <strong>{{name}}</strong>,</p>
+    <p>
+      Gracias por registrarte en <strong>{{appName}}</strong>.  
+      Estamos muy felices de tenerte con nosotros.
+    </p>
+    <p>
+      Ahora puedes acceder a tu cuenta, descubrir nuevos servicios y disfrutar de la mejor experiencia.
+    </p>
+    <a href="{{frontend_url}}" class="btn">Ir a ServiYApp</a>
+    <div class="footer">
+      © {{appName}} — Todos los derechos reservados.
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,122 @@
+[
+  {
+    "names": "Laura",
+    "surnames": "González",
+    "userName": "laura_nails",
+    "email": "laura@example.com",
+    "phone": "3205551122",
+    "password": "123456",
+    "address": "Cra 45 #10-22",
+    "profilePicture": "https://example.com/laura-avatar.jpg",
+    "documentNumber": "100200300",
+    "documentFile": "https://example.com/laura-doc.pdf"
+  },
+  {
+    "names": "Camilo",
+    "surnames": "Rojas",
+    "userName": "camilo_hair",
+    "email": "camilo@example.com",
+    "phone": "3009876543",
+    "password": "123456",
+    "address": "Cl 80 #12-45",
+    "profilePicture": "https://example.com/camilo-avatar.jpg",
+    "documentNumber": "900800700",
+    "documentFile": "https://example.com/camilo-doc.pdf"
+  },
+  {
+    "names": "Natalia",
+    "surnames": "López",
+    "userName": "natalia_skin",
+    "email": "natalia@example.com",
+    "phone": "3102223344",
+    "password": "123456",
+    "address": "Av 68 #45-20",
+    "profilePicture": "https://example.com/natalia-avatar.jpg",
+    "documentNumber": "110223344",
+    "documentFile": "https://example.com/natalia-doc.pdf"
+  },
+  {
+    "names": "Juan",
+    "surnames": "Martínez",
+    "userName": "juan_barber",
+    "email": "juan@example.com",
+    "phone": "3115556677",
+    "password": "123456",
+    "address": "Cl 13 #7-45",
+    "profilePicture": "https://example.com/juan-avatar.jpg",
+    "documentNumber": "220334455",
+    "documentFile": "https://example.com/juan-doc.pdf"
+  },
+  {
+    "names": "Daniela",
+    "surnames": "Cruz",
+    "userName": "daniela_makeup",
+    "email": "daniela@example.com",
+    "phone": "3127778899",
+    "password": "123456",
+    "address": "Cra 25 #8-60",
+    "profilePicture": "https://example.com/daniela-avatar.jpg",
+    "documentNumber": "330445566",
+    "documentFile": "https://example.com/daniela-doc.pdf"
+  },
+  {
+    "names": "Pedro",
+    "surnames": "Ortiz",
+    "userName": "pedro_massage",
+    "email": "pedro@example.com",
+    "phone": "3138889900",
+    "password": "123456",
+    "address": "Cl 90 #30-22",
+    "profilePicture": "https://example.com/pedro-avatar.jpg",
+    "documentNumber": "440556677",
+    "documentFile": "https://example.com/pedro-doc.pdf"
+  },
+  {
+    "names": "Carolina",
+    "surnames": "Vega",
+    "userName": "carolina_spa",
+    "email": "carolina@example.com",
+    "phone": "3149990011",
+    "password": "123456",
+    "address": "Av Suba #100-10",
+    "profilePicture": "https://example.com/carolina-avatar.jpg",
+    "documentNumber": "550667788",
+    "documentFile": "https://example.com/carolina-doc.pdf"
+  },
+  {
+    "names": "Andrés",
+    "surnames": "Moreno",
+    "userName": "andres_tattoo",
+    "email": "andres@example.com",
+    "phone": "3151112233",
+    "password": "123456",
+    "address": "Cl 72 #50-15",
+    "profilePicture": "https://example.com/andres-avatar.jpg",
+    "documentNumber": "660778899",
+    "documentFile": "https://example.com/andres-doc.pdf"
+  },
+  {
+    "names": "Lucía",
+    "surnames": "Castaño",
+    "userName": "lucia_brows",
+    "email": "lucia@example.com",
+    "phone": "3162223344",
+    "password": "123456",
+    "address": "Cra 12 #24-30",
+    "profilePicture": "https://example.com/lucia-avatar.jpg",
+    "documentNumber": "770889900",
+    "documentFile": "https://example.com/lucia-doc.pdf"
+  },
+  {
+    "names": "Mateo",
+    "surnames": "Jiménez",
+    "userName": "mateo_beauty",
+    "email": "mateo@example.com",
+    "phone": "3173334455",
+    "password": "123456",
+    "address": "Cl 33 #9-50",
+    "profilePicture": "https://example.com/mateo-avatar.jpg",
+    "documentNumber": "880990011",
+    "documentFile": "https://example.com/mateo-doc.pdf"
+  }
+]

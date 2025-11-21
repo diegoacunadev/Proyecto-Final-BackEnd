@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Cabello",
+    "description": "Servicios de cuidado, corte, coloración y peinado de cabello."
+  },
+  {
+    "name": "Maquillaje",
+    "description": "Aplicación profesional de maquillaje para eventos, novias y sesiones fotográficas."
+  },
+  {
+    "name": "Uñas",
+    "description": "Manicure, pedicure, uñas acrílicas, gel y spa de manos y pies."
+  },
+  {
+    "name": "Masajes",
+    "description": "Masajes relajantes, terapéuticos y de bienestar físico y mental."
+  },
+  {
+    "name": "Cuidado de la piel",
+    "description": "Limpiezas faciales, tratamientos rejuvenecedores y servicios de dermocosmética."
+  }
+]

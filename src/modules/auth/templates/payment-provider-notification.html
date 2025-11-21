@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <title>💵 Nuevo pago recibido</title>
+  </head>
+  <body style="font-family:Arial,sans-serif;background-color:#f5f6fa;padding:30px;">
+    <table align="center" cellpadding="0" cellspacing="0" width="600" 
+          style="background:#ffffff;border-radius:10px;box-shadow:0 2px 6px rgba(0,0,0,0.05);padding:20px;">
+      <tr>
+        <td align="center">
+          <h2 style="color:#2b2b2b;margin-bottom:10px;">¡Has recibido un nuevo pago! 💵</h2>
+          <p style="color:#555;">Hola <strong>{{provider_name}}</strong>,</p>
+          <p style="color:#555;">Un cliente ha realizado un pago por uno de tus servicios.</p>
+
+          <table style="margin-top:20px; text-align:left; width:100%; color:#333;">
+            <tr><td><strong>Servicio:</strong></td><td>{{service_name}}</td></tr>
+            <tr><td><strong>Monto:</strong></td><td>{{amount}} {{currency}}</td></tr>
+            <tr><td><strong>Estado:</strong></td><td>{{status}}</td></tr>
+            <tr><td><strong>Método de pago:</strong></td><td>{{payment_method}}</td></tr>
+            <tr><td><strong>ID del pago:</strong></td><td>{{mp_payment_id}}</td></tr>
+            <tr><td><strong>ID de la orden:</strong></td><td>{{service_order_id}}</td></tr>
+          </table>
+
+          <p style="color:#555; margin-top:20px;">
+            Puedes ver tu orden desde tu panel de control.
+          </p>
+
+          <p style="margin-top:20px;font-size:14px;color:#777;">
+            Gracias por seguir ofreciendo tus servicios en <strong>{{appName}}</strong>.
+          </p>
+
+          <hr style="margin:20px 0;border:0;border-top:1px solid #eee;">
+          <small style="color:#aaa;">&copy; {{appName}} Aliados - Todos los derechos reservados</small>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
